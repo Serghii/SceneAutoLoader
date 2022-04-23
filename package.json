@@ -1,16 +1,15 @@
 {
-	"name": "SceneAutoLoader",
+	"name": "com.scene_auto_loader.tool",
+	"displayName": "Scene Auto Loader Package",
 	"unity": "2018.3",
 	"version": "1.0.0",
-	"displayName": "Small Utilities Package",
 	"description": "menu containing options to select\n first scene enable it to be auto-loaded when the user presses play \nin the editor. When enabled, the selected scene will be loaded on play,\nthen the original scene will be reloaded on stop.",
 	"author": "Sergii Safonov",
 	"dependencies": {
 	},
 	"keywords": [
 		"Editor",
-		"Extension",
-		"AutoLoader"		
+		"Extension"				
 	],
 	"repository": {
 		"type": "git",
